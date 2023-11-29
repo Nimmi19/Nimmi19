@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nimmi Deshapriya</h1>
 <h3 align="center">"Committed student mastering QA engineering with a passion for excellence in software development."</h3>
 
-- 🌱 I’m currently learning **software tools,opening learning learning platform University of Moratuwa.**
+- 🌱 I’m currently learning **software tools and opening learning platform University of Moratuwa.**
 
 - 💬 Ask me about **python,Java**
 
@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/nimmi deshapriya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nimmi deshapriya" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/nimmideshapriya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nimmi deshapriya" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
