@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nimmi Deshapriya</h1>
 <h3 align="center">"Committed student mastering QA engineering with a passion for excellence in software development."</h3>
-
+<h4 align = "center"> "Following notes for ISTQB Foundation Level Certification."</h4>
 - 🌱 I’m currently learning **software tools and opening learning platform University of Moratuwa.**
 
 - 💬 Ask me about **python,Java**
